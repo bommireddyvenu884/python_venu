@@ -10,4 +10,7 @@ aws_regions[4]
 for venu in aws_regions:
     print(venu)
     print(f"the region name is:{venu}")
-    
+
+
+for index, value in enumerate(aws_region):
+    print(f"Index: {index}, Value: {value}")
