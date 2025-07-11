@@ -1,5 +1,5 @@
-#!/bin/bash
-# print 1 to 10 similar to shell script.
+#!/usr/bin/env python3
+# Print numbers 0 to 9
 for I in range(10):
     print(I)
 
