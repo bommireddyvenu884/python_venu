@@ -18,3 +18,13 @@ None Type:	NoneType
 - fastapi
 
 apt update && apt install -y python3-pip
+
+## python virtual environment
+
+
+## python class 2
+
+- list comprehension
+- dict 
+- set
+- none
